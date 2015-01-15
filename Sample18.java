@@ -10,7 +10,7 @@ import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 
 public class Sample18 {
-	private static final String window_title = "Sample ひよこがいっぱい（クリックしてください）";
+	private static final String window_title = "ひよこが表示されます（クリックしてください）";
 	private static final int window_width = 640;
 	private static final int window_height = 400;
 	private static final int image_kind_cnt = 7;
